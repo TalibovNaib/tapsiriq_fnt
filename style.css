@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: #3333ee;
+    border: 2px solid black;
+    width: max-content; 
+    margin: 0px 50px;   
+}
+p{
+    font-weight: 600;
+    background-color: cyan;
+    width: 500px;
+    height: 120px;
+    padding: 20px 10px;
+    border: 1px solid black;
+}
